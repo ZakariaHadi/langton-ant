@@ -1,0 +1,2 @@
+[0507/191851.121:ERROR:registration_protocol_win.cc(56)] CreateFile: Le fichier spécifié est introuvable. (0x2)
+[0507/191851.164:ERROR:crashpad_client_win.cc(652)] not connected
